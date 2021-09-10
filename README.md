@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋
+
+I am burf
+
+I design and develop products. I work with Laravel and my favorite design tool is Inkscape.
+
+Drop me a message on burfbari@gmail.com
 
 <!--
 **burfbari/burfbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
